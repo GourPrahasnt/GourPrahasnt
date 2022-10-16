@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Prahasnt Gour
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning machine learning techniques.
-- 💞️ I’m looking to collaborate on machine learning projects.
+- 👋 Hi, I’m @Prahasnt Gour.
+- 👀 I’m a passionate Data Scientist .
+- 🌱 I’m currently learning Full Stack Data Science.
+-👨‍💻 All of my projects are available at https://github.com/GourPrahasnt.
 - 📫 How to reach me gourprashant787@gmail.com
 
 <!---
