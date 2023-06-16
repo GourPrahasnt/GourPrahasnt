@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prahasnt Gour.
-- 👀 I’m a passionate Data Scientist .
-- 🌱 I’m currently learning Full Stack Data Science .
+- 👀 I’m a Data Science and Data Analyst Enthusiast .
+- 🌱 I completed Full Stack Data Science course .
 - 👨‍💻 All of my projects are available at https://github.com/GourPrahasnt.
 - 📫 How to reach me gourprashant787@gmail.com
 
